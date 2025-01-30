@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  LocalizableDemo
+
+  Created by Huei-Der Huang on 2025/1/30.
+  
+*/
+
+"CFBundleDisplayName" = "LocalizableDemo";
+"NSLocationWhenInUseUsageDescription" = "Get your location";
+"NSBluetoothAlwaysUsageDescription" = "Get your Bluetooth";

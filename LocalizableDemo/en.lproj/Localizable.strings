@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizableDemo
+
+  Created by Huei-Der Huang on 2025/1/30.
+  
+*/
+
+"Hello" = "Hello";
+"Welcome" = "Welcome";
+"Request_Location" = "Request Location";
+"Request_Bluetooth" = "Request Bluetooth";

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  LocalizableDemo
+
+  Created by Huei-Der Huang on 2025/1/30.
+  
+*/
+
+"CFBundleDisplayName" = "本地化展示";
+"NSLocationWhenInUseUsageDescription" = "取得定位";
+"NSBluetoothAlwaysUsageDescription" = "取得藍芽";

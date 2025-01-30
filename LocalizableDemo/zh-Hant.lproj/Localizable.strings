@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizableDemo
+
+  Created by Huei-Der Huang on 2025/1/30.
+  
+*/
+
+"Hello" = "您好";
+"Welcome" = "歡迎";
+"Request_Location" = "取得定位";
+"Request_Bluetooth" = "取得藍芽";
